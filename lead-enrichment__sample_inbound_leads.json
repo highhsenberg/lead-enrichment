@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jordan Blake",
+    "email": "jordan@northwinddata.com",
+    "message": "Our VP of Sales approved budget to fix reporting this quarter, can we talk this week?"
+  },
+  {
+    "name": "Priya Shah",
+    "email": "priya@ledgerline.io",
+    "message": "Just exploring options, no timeline yet."
+  },
+  {
+    "name": "Alex Kim",
+    "email": "alex@fieldworksai.com",
+    "message": "Our Head of RevOps wants a demo, budget already set aside."
+  },
+  {
+    "name": "Taylor Reed",
+    "email": "taylor@barrowfinch.com",
+    "message": "Just curious what this does."
+  }
+]
